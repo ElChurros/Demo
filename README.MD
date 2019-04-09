@@ -4,9 +4,6 @@ This is a FullStack App that combine a RESTFul API created in Symfony 3.3. In th
 
 The App contains a basic login system that allows to create and edit users, also to add, edit, display and remove tasks related to those users.
 
-Looks like this:
-
-![alt tag](symfony_angular_app.png)
 
 In order to setup the app, please run this steps:
 
@@ -72,7 +69,7 @@ Body:
 
 ## Running the ClientSide
 
-Be sure you have installed node(my version 9.0.0) and npm(my version 5.6.0)  
+Be sure you have installed node and npm
 
 Go to your "Angular folder", and in the CLI type:
 
